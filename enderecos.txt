@@ -1,0 +1,2 @@
+
+Endereco{cep='01001-000', logradouro='Praça da Sé', complemento='lado ímpar', unidade='', bairro='Sé', localidade='São Paulo', uf='SP', estado='São Paulo', regiao='Sudeste', gia='1004', ddd=11, ibge=3550308, siafi=7107}

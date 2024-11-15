@@ -1,0 +1,32 @@
+[
+  {
+    "cep": "88815-425",
+    "logradouro": "Rua Antônio Bongiolo",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Bosque do Repouso",
+    "localidade": "Criciúma",
+    "uf": "SC",
+    "estado": "Santa Catarina",
+    "regiao": "Sul",
+    "gia": "",
+    "ddd": 48,
+    "ibge": 4204608,
+    "siafi": 8089
+  },
+  {
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "complemento": "lado ímpar",
+    "unidade": "",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "gia": "1004",
+    "ddd": 11,
+    "ibge": 3550308,
+    "siafi": 7107
+  }
+]
